@@ -1,2 +1,4 @@
-- Hi, I'm Albert, I am a brazilian Data Analist. Besides programing I am interested in reading and traveling.
-- I am currently learning Python, and I am looking for professional improvement
+- Hi, I'm Albert, I am a brazilian Data Analist and developer. Besides programing I am interested in reading and traveling.
+# Phython. Flask. Pandas
+# Java
+# SQL
